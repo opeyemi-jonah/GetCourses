@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/041a284e-6160-43b6-af7c-e95197a712d3/resourceGroups/ECECD_RPA/providers/Microsoft.Web/sites/GetCourseInformation/subscriptions/041a284e-6160-43b6-af7c-e95197a712d3/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/Regexer",
+    "appService.deploySubpath": "."
+}
